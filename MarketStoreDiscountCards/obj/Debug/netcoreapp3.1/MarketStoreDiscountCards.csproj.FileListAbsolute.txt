@@ -1,0 +1,13 @@
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.exe
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.deps.json
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.runtimeconfig.json
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.runtimeconfig.dev.json
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.dll
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\bin\Debug\netcoreapp3.1\MarketStoreDiscountCards.pdb
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.csprojAssemblyReference.cache
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.AssemblyInfoInputs.cache
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.AssemblyInfo.cs
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.csproj.CoreCompileInputs.cache
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.dll
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.pdb
+C:\Users\Emilian\source\repos\MarketStoreDiscountCards\obj\Debug\netcoreapp3.1\MarketStoreDiscountCards.genruntimeconfig.cache
