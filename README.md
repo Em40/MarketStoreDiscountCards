@@ -19,9 +19,11 @@ The program calculates the discount rate of each different type of cards then ca
 Then the program prints the output as follows:
 
 Input:
+
 Create Bronze 0 150
 
 Output:
+
 Purchase value: $150.00
 
 Discount rate: 0.0%
@@ -31,9 +33,11 @@ Discount: $0.00
 Total: $150.00
 
 Input:
+
 Create Silver 600 850
 
 Output:
+
 Purchase value: $850.00
 
 Discount rate: 3.5%
@@ -43,9 +47,11 @@ Discount: $29.75
 Total: $820.25
 
 Input:
+
 Create Gold 1500 1300
 
 Output:
+
 Purchase value: $1300.00
 
 Discount rate: 10.0%
